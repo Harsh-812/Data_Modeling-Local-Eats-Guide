@@ -3,6 +3,21 @@
 The objective of the study was to build a robust database management system for an online restaurant/eatery suggesting application called Local Eats Guide. The system is to handle both transactional data (payment information) Vendors data and Reference Data (User data, Address Information, Reviews etc), and should be the single source of information about anything related to users, vendors, events and the event organizers. First a conceptual data model was created which was later translated into an entity relationship model including cardinalities and relationships which was normalized to 3NF third normal form. Stored procedures, Views, User defined functons and 
 <hr>
 
+## Database Design
+
+The database is designed with the following key entities:
+
+* **User:** Stores user details and their preferences.
+* **Vendor:** Details about restaurant vendors including their offerings and operational details.
+* **Events:** Information on events organized by vendors.
+* **Health Inspection:** Logs inspection details for vendors to ensure compliance and safety.
+* **Payment:** Manages payment transactions for event registrations
+
+## Entity-Relationship Diagram (ERD)
+
+![image](https://github.com/Harsh-812/Local-Eats-Database/assets/135538639/7163e6ab-a676-4a27-97eb-9425e80cb763)
+<hr>
+
 ## Features
 
 * **User Management:** Handles user information and preferences, including favorite dishes and cuisines.
@@ -11,11 +26,6 @@ The objective of the study was to build a robust database management system for 
 * **Event Management:** Vendors and event organizers can manage and promote events through the system.
 * **Health Inspections:** Records and tracks health inspection results for vendors.
 * **Payment Processing:** Manages event registration payments, ensuring secure transaction processing.
-<hr>
-
-## Entity-Relationship Diagram (ERD)
-
-![image](https://github.com/Harsh-812/Local-Eats-Database/assets/135538639/7163e6ab-a676-4a27-97eb-9425e80cb763)
 <hr>
 
 ## Advanced Database Features
@@ -28,13 +38,3 @@ The objective of the study was to build a robust database management system for 
 * **Data Encryption:** Secures sensitive user data directly within the database.
 * **Non-clustered Indexes:** Optimizes search performance without altering the physical order of the rows.
 <hr>
-
-## Database Design
-
-The database is designed with the following key entities:
-
-* **User:** Stores user details and their preferences.
-* **Vendor:** Details about restaurant vendors including their offerings and operational details.
-* **Events:** Information on events organized by vendors.
-* **Health Inspection:** Logs inspection details for vendors to ensure compliance and safety.
-* **Payment:** Manages payment transactions for event registrations
