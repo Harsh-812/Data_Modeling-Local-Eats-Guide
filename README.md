@@ -5,15 +5,16 @@ The objective of the study was to build a robust database management system for 
 
 ##Features
 
-**User Management:** Handles user information and preferences, including favorite dishes and cuisines.
-**Vendor Profiles:** Each vendor is detailed with information on cuisine, location, contact details, and operating hours.
-**Reviews and Ratings:** Users can post reviews and rate vendors, influencing future recommendations.
-**Event Management:** Vendors and event organizers can manage and promote events through the system.
-**Health Inspections:** Records and tracks health inspection results for vendors.
-**Payment Processing:** Manages event registration payments, ensuring secure transaction processing.
+* **User Management:** Handles user information and preferences, including favorite dishes and cuisines.
+* **Vendor Profiles:** Each vendor is detailed with information on cuisine, location, contact details, and operating hours.
+* **Reviews and Ratings:** Users can post reviews and rate vendors, influencing future recommendations.
+* **Event Management:** Vendors and event organizers can manage and promote events through the system.
+* **Health Inspections:** Records and tracks health inspection results for vendors.
+* **Payment Processing:** Manages event registration payments, ensuring secure transaction processing.
 <hr>
 
 ##Entity-Relationship Diagram (ERD)
+
 ![image](https://github.com/Harsh-812/Local-Eats-Database/assets/135538639/7163e6ab-a676-4a27-97eb-9425e80cb763)
 <hr>
 
