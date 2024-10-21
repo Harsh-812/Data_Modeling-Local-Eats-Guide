@@ -15,7 +15,7 @@ The database is designed with the following key entities:
 
 ## Entity-Relationship Diagram (ERD)
 
-![image](https://github.com/user-attachments/assets/25d56fea-6860-4716-a03b-cba7563069ea)
+![image](https://github.com/user-attachments/assets/4a506169-c0c1-4f7a-a0d9-91c34c2a02de)
 
 <hr>
 
