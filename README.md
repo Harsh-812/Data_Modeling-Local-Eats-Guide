@@ -15,7 +15,8 @@ The database is designed with the following key entities:
 
 ## Entity-Relationship Diagram (ERD)
 
-![image](https://github.com/Harsh-812/Local-Eats-Database/assets/135538639/7163e6ab-a676-4a27-97eb-9425e80cb763)
+![image](https://github.com/user-attachments/assets/25d56fea-6860-4716-a03b-cba7563069ea)
+
 <hr>
 
 ## Features
